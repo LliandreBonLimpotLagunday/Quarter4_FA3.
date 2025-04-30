@@ -25,3 +25,6 @@ function generateShape() {
   }
 
   outputDiv.innerHTML = result;
+}
+
+generateShape();
