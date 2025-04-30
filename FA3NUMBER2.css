@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fafafa;
+  padding: 20px;
+  color: #333;
+}
+
+h1 {
+  color: #006699;
+}
+
+input {
+  padding: 8px;
+  font-size: 16px;
+  margin-right: 5px;
+}
+
+button {
+  padding: 8px 12px;
+  font-size: 16px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+ul {
+  margin-top: 15px;
+  padding-left: 20px;
+}
