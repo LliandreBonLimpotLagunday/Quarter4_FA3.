@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f8ff;
+  color: #333;
+  padding: 20px;
+}
+
+h1 {
+  color: #2e8b57;
+}
+
+#shape-output {
+  background: #ffffff;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 20px;
+  font-size: 18px;
+  line-height: 1.6;
+  white-space: pre-line;
+}
